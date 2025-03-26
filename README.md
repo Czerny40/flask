@@ -4,7 +4,7 @@
 
 
 ## 소개
-- 구직 정보를 편리하게 모아서 확인할 수 있는 간단한 웹 애플리케이션입니다.
+- 구직 정보를 편리하게 모아서 확인할 수 있는 간단한 웹 스크래퍼 예제입니다.
 
 ## 주요 기능
 - 사용자가 입력한 키워드와 관련된 구직 정보를 3개의 구직 사이트([We Work Remotely](https://weworkremotely.com/), [Berlin Startup Jobs](https://berlinstartupjobs.com/), [Web3.career](https://web3.career/))에서 스크래핑합니다.
