@@ -5,6 +5,7 @@
 
 ## 소개
 - 구직 정보를 편리하게 모아서 확인할 수 있는 간단한 웹 스크래퍼 예제입니다.
+- flask 프레임워크와 requests, bs4, playwright 라이브러리를 사용했습니다.
 
 ## 주요 기능
 - 사용자가 입력한 키워드와 관련된 구직 정보를 3개의 구직 사이트([We Work Remotely](https://weworkremotely.com/), [Berlin Startup Jobs](https://berlinstartupjobs.com/), [Web3.career](https://web3.career/))에서 스크래핑합니다.
